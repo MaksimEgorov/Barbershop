@@ -7,6 +7,7 @@ const del = require('del');
 const browserSync = require('browser-sync').create();
 
 
+
 const cssFiles = [
     './node_modules/normalize.css/normalize.css',
     './src/css/style.css',
